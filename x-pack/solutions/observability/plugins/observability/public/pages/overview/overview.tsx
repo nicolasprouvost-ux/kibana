@@ -207,7 +207,7 @@ export function OverviewPage() {
           title={
             <h2>
               {i18n.translate('xpack.observability.overview.emptyState.title', {
-                defaultMessage: 'Welcome to Observability',
+                defaultMessage: 'Hello world!',
               })}
             </h2>
           }
